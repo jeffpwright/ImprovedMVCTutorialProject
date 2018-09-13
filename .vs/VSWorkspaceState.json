@@ -3,8 +3,9 @@
     "",
     "\\Interfaces",
     "\\ProductsApp",
+    "\\ProductsAppRepository",
     "\\ProductsApp\\Controllers"
   ],
-  "SelectedNode": "\\Interfaces\\IProductsAppApplication.cs",
+  "SelectedNode": "\\ProductsAppRepository\\ProductsAppRepository.cs",
   "PreviewInSolutionExplorer": false
 }

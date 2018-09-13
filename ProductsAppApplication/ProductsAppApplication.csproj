@@ -7,8 +7,8 @@
     <ProjectGuid>{FA5B3C4E-7851-4BE4-ACC9-A157CB2A9DC3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ProductsAppApplication2</RootNamespace>
-    <AssemblyName>ProductsAppApplication2</AssemblyName>
+    <RootNamespace>ProductsAppApplication</RootNamespace>
+    <AssemblyName>ProductsAppApplication</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

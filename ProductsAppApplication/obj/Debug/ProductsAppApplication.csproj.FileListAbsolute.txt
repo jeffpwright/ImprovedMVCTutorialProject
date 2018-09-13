@@ -1,0 +1,13 @@
+C:\Users\jeff_2\Documents\Visual Studio 2017\Projects\ProductsApp\ProductsAppApplication\bin\Debug\ProductsAppApplication.dll
+C:\Users\jeff_2\Documents\Visual Studio 2017\Projects\ProductsApp\ProductsAppApplication\bin\Debug\ProductsAppApplication.pdb
+C:\Users\jeff_2\Documents\Visual Studio 2017\Projects\ProductsApp\ProductsAppApplication\bin\Debug\DomainInterfaces.dll
+C:\Users\jeff_2\Documents\Visual Studio 2017\Projects\ProductsApp\ProductsAppApplication\bin\Debug\Interfaces.dll
+C:\Users\jeff_2\Documents\Visual Studio 2017\Projects\ProductsApp\ProductsAppApplication\bin\Debug\RepositoryInterfaces.dll
+C:\Users\jeff_2\Documents\Visual Studio 2017\Projects\ProductsApp\ProductsAppApplication\bin\Debug\DomainInterfaces.pdb
+C:\Users\jeff_2\Documents\Visual Studio 2017\Projects\ProductsApp\ProductsAppApplication\bin\Debug\Interfaces.pdb
+C:\Users\jeff_2\Documents\Visual Studio 2017\Projects\ProductsApp\ProductsAppApplication\bin\Debug\RepositoryInterfaces.pdb
+C:\Users\jeff_2\Documents\Visual Studio 2017\Projects\ProductsApp\ProductsAppApplication\obj\Debug\ProductsAppApplication.csprojAssemblyReference.cache
+C:\Users\jeff_2\Documents\Visual Studio 2017\Projects\ProductsApp\ProductsAppApplication\obj\Debug\ProductsAppApplication.csproj.CoreCompileInputs.cache
+C:\Users\jeff_2\Documents\Visual Studio 2017\Projects\ProductsApp\ProductsAppApplication\obj\Debug\ProductsAppApplication.csproj.CopyComplete
+C:\Users\jeff_2\Documents\Visual Studio 2017\Projects\ProductsApp\ProductsAppApplication\obj\Debug\ProductsAppApplication.dll
+C:\Users\jeff_2\Documents\Visual Studio 2017\Projects\ProductsApp\ProductsAppApplication\obj\Debug\ProductsAppApplication.pdb

@@ -25,7 +25,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryInterfaces", "Rep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductsAppRepository", "ProductsAppRepository\ProductsAppRepository.csproj", "{2D0ABCFE-CB91-4F56-B483-B4B22C215183}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductsAppApplication", "ProductsAppApplication2\ProductsAppApplication.csproj", "{FA5B3C4E-7851-4BE4-ACC9-A157CB2A9DC3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductsAppApplication", "ProductsAppApplication\ProductsAppApplication.csproj", "{FA5B3C4E-7851-4BE4-ACC9-A157CB2A9DC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

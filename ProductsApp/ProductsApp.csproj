@@ -145,7 +145,7 @@
       <Project>{6cb40844-e3a1-4291-a001-9d16bcf33df7}</Project>
       <Name>ApplicationInterfaces</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ProductsAppApplication2\ProductsAppApplication.csproj">
+    <ProjectReference Include="..\ProductsAppApplication\ProductsAppApplication.csproj">
       <Project>{FA5B3C4E-7851-4BE4-ACC9-A157CB2A9DC3}</Project>
       <Name>ProductsAppApplication</Name>
     </ProjectReference>
