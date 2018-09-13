@@ -145,6 +145,10 @@
       <Project>{6cb40844-e3a1-4291-a001-9d16bcf33df7}</Project>
       <Name>ApplicationInterfaces</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ProductsAppApplication2\ProductsAppApplication.csproj">
+      <Project>{FA5B3C4E-7851-4BE4-ACC9-A157CB2A9DC3}</Project>
+      <Name>ProductsAppApplication</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ProductsAppDomain\ProductsAppDomain.csproj">
       <Project>{E9A86FFC-7385-4AE2-AC3E-7B7B961871FA}</Project>
       <Name>ProductsAppDomain</Name>
@@ -156,10 +160,6 @@
     <ProjectReference Include="..\RepositoryInterfaces\RepositoryInterfaces.csproj">
       <Project>{92A1304F-A939-463F-BC02-96B8E1C3BC94}</Project>
       <Name>RepositoryInterfaces</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Something\ProductsAppApplication.csproj">
-      <Project>{6F317149-B54C-418A-899D-80154B286D83}</Project>
-      <Name>ProductsAppApplication</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Web.Http;
 using AutoMapper;
 using ProductsApp.Domain.ProductsAppDomain;
+using System;
 
 namespace ProductsApp.Controllers
 {
@@ -20,12 +21,29 @@ namespace ProductsApp.Controllers
 
         public IHttpActionResult GetProduct(int id)
         {
-            var model = _application.GetProduct(id);
-            var contract = new Product();
+            Product contract = null;
+            IHttpActionResult result;
 
-            Mapper.Map(model, contract);
-            
-            return Ok(contract);
+            try
+            {
+                var model = _application.GetProduct(id);
+                contract = new Product();
+                Mapper.Map(model, contract);
+                result = Ok(contract);
+            }
+            catch (Exception ex)
+            {
+                if (ex.Message.Contains("not found"))
+                {
+                    result = NotFound();
+                }
+                else
+                {
+                    result = InternalServerError();
+                }
+            }
+
+            return result;
         }
     }
 }

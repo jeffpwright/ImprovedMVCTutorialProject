@@ -6,3 +6,4 @@ c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\RepositoryInte
 c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.csproj.CopyComplete
 c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.dll
 c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.pdb
+C:\Users\jeff_2\Documents\Visual Studio 2017\Projects\ProductsApp\RepositoryInterfaces\obj\Debug\RepositoryInterfaces.csprojAssemblyReference.cache

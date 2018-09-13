@@ -7,8 +7,7 @@ namespace ProductsApp.App_Start
     using System.Web;
     using System.Web.Http;
     using DomainInterfaces.Factories;
-    using global::ProductsApp.Application.ProductsAppApplication;
-    using global::ProductsApp.Interfaces;
+    using ProductsApp.Interfaces;
     using Microsoft.Web.Infrastructure.DynamicModuleHelper;
     using ProductsApp.Domain.ProductsAppDomain.ModelFactories;
 
@@ -18,6 +17,7 @@ namespace ProductsApp.App_Start
     using Ninject.Web.WebApi;
     using ProductsAppRepository;
     using RepositoryInterfaces;
+    using ProductsAppApplication;
 
     public static class NinjectWebCommon 
     {
@@ -72,7 +72,6 @@ namespace ProductsApp.App_Start
             kernel.Bind<IModelFactory>().To<ModelFactory>().InSingletonScope();
             kernel.Bind<IProductsAppApplication>().To<ProductsAppApplication>().InSingletonScope();
             kernel.Bind<IProductsAppRepository>().To<ProductsAppRepository>().InSingletonScope();
-
         }        
     }
 }

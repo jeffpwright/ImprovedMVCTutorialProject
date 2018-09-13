@@ -79,14 +79,14 @@ c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bi
 c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\Ninject.Web.Common.WebHost.xml
 c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\Ninject.Web.WebApi.xml
 c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\System.ValueTuple.xml
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\ProductsApp.Application.ProductsAppApplication.dll
 c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\ProductsAppRepository.dll
 c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\RepositoryInterfaces.dll
 c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\ProductsAppRepository.pdb
 c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\RepositoryInterfaces.pdb
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\ProductsApp.Application.ProductsAppApplication.pdb
 c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\ProductsApp.dll.config
 c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\ProductsApp.dll
 c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\bin\ProductsApp.pdb
 c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\obj\Debug\ProductsApp.dll
 c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsApp\obj\Debug\ProductsApp.pdb
+C:\Users\jeff_2\Documents\Visual Studio 2017\Projects\ProductsApp\ProductsApp\bin\ProductsAppApplication2.dll
+C:\Users\jeff_2\Documents\Visual Studio 2017\Projects\ProductsApp\ProductsApp\bin\ProductsAppApplication2.pdb
