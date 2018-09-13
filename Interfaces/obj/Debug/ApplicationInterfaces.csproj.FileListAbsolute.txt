@@ -1,9 +1,0 @@
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\Interfaces\bin\Debug\Interfaces.dll
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\Interfaces\bin\Debug\Interfaces.pdb
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\Interfaces\bin\Debug\DomainInterfaces.dll
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\Interfaces\bin\Debug\DomainInterfaces.pdb
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\Interfaces\obj\Debug\ApplicationInterfaces.csprojAssemblyReference.cache
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\Interfaces\obj\Debug\ApplicationInterfaces.csproj.CoreCompileInputs.cache
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\Interfaces\obj\Debug\ApplicationInterfaces.csproj.CopyComplete
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\Interfaces\obj\Debug\Interfaces.dll
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\Interfaces\obj\Debug\Interfaces.pdb
