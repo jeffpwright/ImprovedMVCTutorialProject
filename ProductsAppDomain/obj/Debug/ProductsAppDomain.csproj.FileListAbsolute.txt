@@ -1,9 +1,0 @@
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsAppDomain\bin\Debug\ProductsApp.Domain.ProductsAppDomain.dll
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsAppDomain\bin\Debug\ProductsApp.Domain.ProductsAppDomain.pdb
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsAppDomain\bin\Debug\DomainInterfaces.dll
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsAppDomain\bin\Debug\DomainInterfaces.pdb
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsAppDomain\obj\Debug\ProductsAppDomain.csprojAssemblyReference.cache
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsAppDomain\obj\Debug\ProductsAppDomain.csproj.CoreCompileInputs.cache
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsAppDomain\obj\Debug\ProductsAppDomain.csproj.CopyComplete
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsAppDomain\obj\Debug\ProductsApp.Domain.ProductsAppDomain.dll
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\ProductsAppDomain\obj\Debug\ProductsApp.Domain.ProductsAppDomain.pdb
