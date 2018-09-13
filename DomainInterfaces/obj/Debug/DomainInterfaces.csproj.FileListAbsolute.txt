@@ -1,5 +1,0 @@
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\DomainInterfaces\bin\Debug\DomainInterfaces.dll
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\DomainInterfaces\bin\Debug\DomainInterfaces.pdb
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\DomainInterfaces\obj\Debug\DomainInterfaces.csproj.CoreCompileInputs.cache
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\DomainInterfaces\obj\Debug\DomainInterfaces.dll
-c:\users\jeff_2\documents\visual studio 2017\Projects\ProductsApp\DomainInterfaces\obj\Debug\DomainInterfaces.pdb
